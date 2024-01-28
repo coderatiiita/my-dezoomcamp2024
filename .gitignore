@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+.virtual_documents
+ny_taxi_postgres_data
+svrks-dezoomcamp2024
+dtc-de-creds.json
+.DS_Store
+.idea
+env_asgn1
+nohup.out
+.terraform
+*.csv
